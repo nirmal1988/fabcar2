@@ -1,0 +1,75 @@
+.ext-added{
+	cursor:pointer;
+}
+
+.ext-added-remove-btn
+{
+	position: absolute !important;
+    right: 10px !important;
+    font-size: 10px !important;
+}
+.ext-tab-content{
+	min-width:400px;
+	min-height: 300px;
+}
+#styleList{
+	
+}
+#styleList span{
+	float: left;
+    margin: 6px;
+    padding: 4px;
+}
+#font-bold{
+	font-weight: bold;
+}
+#font-italic{
+	font-style: italic;
+}
+#font-underline{
+	text-decoration: underline;
+}
+#font-strike{
+	text-decoration: line-through;
+}
+#font-list{
+	float: left;
+	margin-top: 2px;
+    height: 25px;
+    margin-right: 10px;
+}
+.div-font-style{
+	width: 20px;
+	height: 17px;
+	border: solid 1px #000;
+	margin: 3px;
+	float: left;
+	text-align: center;
+    vertical-align: middle;
+	padding-top: 3px;
+	cursor: pointer;
+	margin-left:4px;
+}
+#font-size{
+	margin-top: 2px;
+    height: 25px;
+	float: left;
+	margin-right: 4px;
+}
+.grid-row{
+	width: 100%;
+	height:30px;
+}
+
+#op-caption{
+	font-weight: bold;
+}
+#style-output{
+	padding: 6px;
+	border: solid 1px #000;
+	margin-top: 0px;
+	text-decoration: none;
+}
+.add-style-new{
+	margin-top:70px;
+}
